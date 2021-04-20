@@ -1,1 +1,2 @@
 # Trex
+chrome Trex game
